@@ -1,0 +1,33 @@
+# Environment
+
+## OS
+
+Ubuntu 24.04 (WSL2)
+
+
+## Python
+
+Python 3.12.3
+
+
+## GPU
+
+NVIDIA GeForce RTX 5060 Laptop GPU
+
+
+## Deep Learning
+
+PyTorch 2.13.0+cu129
+
+
+## Main Libraries
+
+- transformers
+- datasets
+- accelerate
+- huggingface_hub
+- bitsandbytes
+- numpy
+- pandas
+- scipy
+- scikit-learn
